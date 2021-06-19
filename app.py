@@ -23,7 +23,6 @@ from tensorflow.keras.utils import to_categorical
 from keras_preprocessing.text import Tokenizer
 tf.random.set_seed(1)
 from google.colab import drive
-import time
 import os
 import gdown
 
