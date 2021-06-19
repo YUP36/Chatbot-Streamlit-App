@@ -1,6 +1,5 @@
 tensorflow
 pandas
-cv2
 plotly
 numpy
 nltk
