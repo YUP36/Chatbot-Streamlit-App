@@ -4,7 +4,6 @@ plotly
 numpy
 nltk
 matplotlib
-re
 spacy
 tensorflow_datasets
 keras
