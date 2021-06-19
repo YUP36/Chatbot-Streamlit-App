@@ -6,7 +6,6 @@ st.header("Three amazing artificial intelligences that you can talk to! Please w
 
 import tensorflow as tf
 import pandas as pd
-import cv2
 import plotly.express as px
 import numpy as np
 import nltk
