@@ -11,7 +11,6 @@ import plotly.express as px
 import numpy as np
 import nltk
 import matplotlib.pyplot as plt
-import re
 import spacy
 import tensorflow_datasets as tfds
 tf.random.set_seed(1)
