@@ -9,3 +9,4 @@ tensorflow_datasets
 keras
 gdown
 tensorflow.io
+google.colab
